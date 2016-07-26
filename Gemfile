@@ -14,6 +14,9 @@ gem 'devise-bootstrap-views'
 gem 'paperclip'
 gem 'jquery-turbolinks'
 gem 'masonry-rails'
+gem 'will_paginate'
+gem 'will_paginate-bootstrap'
+
 
 group :development, :test do
   gem 'byebug'
